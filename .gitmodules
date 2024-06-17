@@ -1,6 +1,6 @@
 [submodule "geoai-frontend"]
 	path = geoai-frontend
-	url = ./geoai-frontend
+	url = https://github.com/sadiqhussain13/geoai-frontend.git
 [submodule "geoai-backend"]
 	path = geoai-backend
-	url = ./geoai-backend
+	url = https://github.com/sadiqhussain13/geoai-backend.git
