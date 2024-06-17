@@ -1,3 +1,6 @@
 [submodule "geoai-frontend"]
 	path = geoai-frontend
 	url = ./geoai-frontend
+[submodule "geoai-backend"]
+	path = geoai-backend
+	url = ./geoai-backend
